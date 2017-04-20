@@ -14,7 +14,7 @@ class Main extends Sprite {
 
 		super ();
 
-		trace("TEST6");
+		trace("TEST7");
 
 		var bitmap = new Bitmap (Assets.getBitmapData ("assets/openfl.png"));
 		addChild (bitmap);
