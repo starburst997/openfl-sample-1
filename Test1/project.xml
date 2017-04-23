@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
 
-	<meta title="Displaying a Bitmap" package="com.failsafegames.test1" version="1.0.2" company="FailSafe Games" />
+	<meta title="Displaying a Bitmap" package="com.failsafegames.test1" version="1.0.3" company="FailSafe Games" />
 
   <meta package="com.failsafegames.mac-test1" if="mac" />
 
