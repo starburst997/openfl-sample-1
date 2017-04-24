@@ -8,8 +8,6 @@
 
 	<app main="Main" path="Export" file="DisplayingABitmap" />
 
-  <window if="mobile" fullscreen="true" />
-
 	<source path="Source" />
 
 	<haxelib name="openfl" />
